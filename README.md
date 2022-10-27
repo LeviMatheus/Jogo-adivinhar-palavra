@@ -1,5 +1,7 @@
 # Jogo-adivinhar-palavra
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 Jogo de adivinhar uma palavra aleatória em linha de comando, estilo Forca. Feito em Python.
 
 Utiliza a base de dados de palavras (palavras.txt).
